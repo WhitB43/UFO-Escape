@@ -1,0 +1,19 @@
+img {
+  height: 175px;
+  background-color: transparent;
+  width: 200px;
+}
+#reset {
+  color: #111;
+}
+#title {
+  color: white;
+}
+#win {
+  color: white;
+}
+body {
+  background-image: url('https://www.spaceanswers.com/wp-content/uploads/2013/10/Black-hole-in-Solar-System.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
